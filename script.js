@@ -25,7 +25,6 @@ let cities = [
     document.getElementById('cityname').innerHTML = cityName
     GetPrayersTimesOfCity(cityName);
     
-  console.log(typeof cityName)
 });
 
 
